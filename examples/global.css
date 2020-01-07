@@ -1,0 +1,17 @@
+html, body {
+  color: #2C3E50;
+}
+
+ul {
+  line-height: 1.5em;
+  padding-left: 1.5em;
+}
+
+a {
+  color: #7F8C8D;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #4FC08D;
+}
