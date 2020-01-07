@@ -1,4 +1,4 @@
-import { AxiosRequestConfig, AxiosPromise, AxiosResponse } from './index.ts'
+import { AxiosRequestConfig, AxiosPromise, AxiosResponse } from '../types/index.ts'
 import { parseHeaders } from '../helpers/headers.ts'
 import { createError } from '../helpers/error.ts'
 
